@@ -1,5 +1,5 @@
 # Diamond Price Prediction Model 
-The model is build using Linear regresssion, KNN and Decison Tree Algorithms
+The model is build using Linear regresssion, KNN and Decison Tree Algorithms.
 Following are the brief steps followed in developing the machine learning models. They are as follows
 1. Loading the dataset. 
 2. Exploratory Data Analysis 
